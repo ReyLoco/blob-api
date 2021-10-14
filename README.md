@@ -1,4 +1,4 @@
 # BLOB-API
 
-This is a API aplication to learn Node, API REST and MongoDB
+This is an API aplication to learn Node, API REST and MongoDB
 
